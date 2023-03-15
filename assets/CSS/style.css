@@ -81,16 +81,6 @@ body {
     font-size: 18px;
 }
 
-.limpar {
-        margin-left: 30px;
-        padding: 10px;
-        border-radius: 10px;
-        background-color: #c51903;
-        color: #fff;
-        font-size: 18px;
-    }
-
-
 table {
     margin-left: 15px;
     display: flex;

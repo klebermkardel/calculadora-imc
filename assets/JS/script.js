@@ -28,7 +28,3 @@ function calcularIMC() {
         document.getElementById("grau").innerHTML = "Obesidade Grau III";
     }
 }
-
-function limpar() {
-    document.getElementById("meu-form").reset();
-}
